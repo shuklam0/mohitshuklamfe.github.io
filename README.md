@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Mohit Shukla's Github
 
-You can use the [editor on GitHub](https://github.com/mohitshuklaMFE/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page contains the list of projects by Mohit Shukla
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. COVID19 Projects
+List of projects done during the COVID19 lockdown, on the market and using [Shiny app](https://rstudio.github.io/)
 
-### Markdown
+#### a) SP500 Stocks
+A summary of stocks' performance during the first half of 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### a1) SP500 Stocks - update
+As SP500 retook the year end level, a relook at how the individual stocks behaved
 
-```markdown
-Syntax highlighted code block
+#### b) Performance comparison between SP500 & Nifty500, i.e. India vs USA
+A comparison on daily returns of SP500 & Nifty500 (Total Return in USD).
 
-# Header 1
-## Header 2
-### Header 3
+### 2. UCLA MFE Projects
+A list of all projects / assignments done during the UCLA MFE Program
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohitshuklaMFE/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
