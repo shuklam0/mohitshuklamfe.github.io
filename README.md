@@ -1,9 +1,9 @@
 ## Mohit Shukla's Github
 
-This page contains the list of projects by Mohit Shukla
+I learned about [Shiny app](https://rstudio.github.io/) this year (2020), and how we can create and deploy pages on the web. I decided to create a bunch of pages as I continued to learn and explore the amazing things I could do. The projects mentioned on this site list a few things I could replicate.
+My aim is now to host possibly as many projects as I can on this page, or whatever the limit is by shinyapps.io server.
 
-### 1. COVID19 Projects
-List of projects done during the COVID19 lockdown, on the market and using [Shiny app](https://rstudio.github.io/)
+### 1. 2020 Projects
 
 #### a) COVID19 numbers
 Using COVID19 library, I created a Shiny page to track COVID 19 global and country specific numbers. The page is available [here](https://shuklam.shinyapps.io/COVID19/)
@@ -18,5 +18,7 @@ As SP500 retook the year end level, a relook at how the individual stocks behave
 A comparison on daily returns of SP500 & Nifty500 (Total Return in USD).
 
 ### 2. UCLA MFE Projects
-A list of all projects / assignments done during the UCLA MFE Program
+A list of all projects / assignments done during the UCLA MFE Program. A detailed list will be published soon.
+
+
 
